@@ -62,7 +62,15 @@ Git par la pratique
         git pull https://github.com/nomducollegue/TP02.git nomdesabranche
 
 * Réglez le conflit. Mettez à jour votre branche maître. Publiez.
+<<<<<<< HEAD
 
 *Guillaume ARSAC,
 *LucasBouland.
 
+=======
+<<<<<<< HEAD
+* Guillaume
+=======
+* LucasBouland
+>>>>>>> LucasBouland
+>>>>>>> 9aefb1b6cbc5fab59623016a1fb34647fe5d4d93
